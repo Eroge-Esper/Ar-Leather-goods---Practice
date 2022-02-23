@@ -1,2 +1,2 @@
 # Ar-Leather-goods---Practice
-Test single page HTML Static site
+First ever try to create a static website.
